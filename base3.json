@@ -2,10 +2,10 @@
 	"manifestVersion": 1,
 	"name": "Core",
 	"namespace": "Base3\\Core",
-	"version": "4.10.0",
+	"version": "5.0.0",
 	"description": "BASE3 core implementations and default framework bootstrap.",
 	"license": "GPL-3.0-or-later",
 	"dependencies": {
-		"CoreFoundation": ">=4.10.0"
+		"CoreFoundation": ">=5.0.0"
 	}
 }
